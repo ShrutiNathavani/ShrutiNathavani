@@ -16,7 +16,17 @@
   <br>![](https://komarev.com/ghpvc/?username=ShrutiNathavani&color=green)
 <!--   <br>![](https://hit.yhype.me/github/profile?user_id=77008411) -->
 </div>
+## Popular Projects
+<a href="https://github.com/ShrutiNathavani/Text_Summarization">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=Text_Summarization&theme=onedark" />
+</a>  
 
+
+<a href="https://github.com/ShrutiNathavani/H1BVisaPredict">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=H1BVisaPredict&theme=onedark" />
+</a> 
 <!---
 ShrutiNathavani/ShrutiNathavani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
