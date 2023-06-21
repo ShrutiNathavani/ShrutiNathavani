@@ -17,8 +17,7 @@
 <br>
 <br>
  <div>
- <h1>[Shruti's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShrutiNathavani&theme=tokyonight&show_icons=true)</h1>
- 
+ <h1>ShrutiNathavani's Projects</h1>
  <a href="https://github.com/ShrutiNathavani/Text_Summarization">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=Text_Summarization&theme=tokyonight&show_icons=true" />
