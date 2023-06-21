@@ -3,18 +3,7 @@
 | About                                                                                                                                          | Top Languages                                                                                                     |
 |-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | • 👋 Hi, I’m Shruti Nathavani.<br>• 👀 I’m interested in Data Science, Machine Learning and a lot more.<br>• 🌱 I’m currently a ML Intern.<br>• 💞️ I’m looking to collaborate on various topics like ML, Data Science, Deep Learning any many more.<br>• 📫 Reach me on all socials by @shruti.nathavani or @shrutinathavani.<br>• 🌚 There are two kinds of data scientists. 1.) Those who can extrapolate from incomplete data. | ![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShrutiNathavani&theme=tokyonight&show_icons=true) |
- <div>
- <a href="https://github.com/ShrutiNathavani/Text_Summarization">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=Text_Summarization&theme=onedark" />
-</a>  
 
-
-<a href="https://github.com/ShrutiNathavani/H1BVisaPredict">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=H1BVisaPredict&theme=onedark" />
-</a>
- </div> 
 |     Stats                                                                                                         |     Streak                                                                                              |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | ![Shruti's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShrutiNathavani&theme=tokyonight&show_icons=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=ShrutiNathavani&theme=tokyonight)](https://git.io/streak-stats)
