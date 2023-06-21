@@ -7,16 +7,6 @@
 |     Stats                                                                                                         |     Streak                                                                                              |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | ![Shruti's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShrutiNathavani&theme=tokyonight&show_icons=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=ShrutiNathavani&theme=tokyonight)](https://git.io/streak-stats)
-
-<!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
-[![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNathavani&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- github-compacet, tokyo-night -->
-  
-  [![My Skills](https://skillicons.dev/icons?i=git,github,matlab,mysql,py,tensorflow)](https://skillicons.dev)
-  <br>![](https://komarev.com/ghpvc/?username=ShrutiNathavani&color=green)
-<!--   <br>![](https://hit.yhype.me/github/profile?user_id=77008411) -->
-</div>
-## Popular Projects
 <a href="https://github.com/ShrutiNathavani/Text_Summarization">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=Text_Summarization&theme=onedark" />
@@ -27,6 +17,15 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=H1BVisaPredict&theme=onedark" />
 </a> 
+<!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
+[![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNathavani&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- github-compacet, tokyo-night -->
+  
+  [![My Skills](https://skillicons.dev/icons?i=git,github,matlab,mysql,py,tensorflow)](https://skillicons.dev)
+  <br>![](https://komarev.com/ghpvc/?username=ShrutiNathavani&color=green)
+<!--   <br>![](https://hit.yhype.me/github/profile?user_id=77008411) -->
+</div>
+
 <!---
 ShrutiNathavani/ShrutiNathavani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
