@@ -8,6 +8,14 @@
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | ![Shruti's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShrutiNathavani&theme=tokyonight&show_icons=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=ShrutiNathavani&theme=tokyonight)](https://git.io/streak-stats)
 
+
+ 
+<!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
+[![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNathavani&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- github-compacet, tokyo-night -->
+
+<br>
+<br>
  <div>
  <a href="https://github.com/ShrutiNathavani/Text_Summarization">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -20,12 +28,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=H1BVisaPredict&theme=onedark" />
 </a>
  </div> 
- 
-<!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
-[![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNathavani&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- github-compacet, tokyo-night -->
-
-
 <br>
 <br>
 
