@@ -17,7 +17,7 @@
 <br>
 <br>
  <div>
- <h1 style="color: blue">ShrutiNathavani's Projects</h1>
+ <h1>[Shruti's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShrutiNathavani&theme=tokyonight&show_icons=true)</h1>
  
  <a href="https://github.com/ShrutiNathavani/Text_Summarization">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
