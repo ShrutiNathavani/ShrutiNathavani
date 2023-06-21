@@ -17,7 +17,7 @@
 <br>
 <br>
  <div>
- <h1 style="color: blue;">Shruti's Projects</h1>
+ <h1 style="color: blue;">ShrutiNathavani's Projects</h1>
  
  <a href="https://github.com/ShrutiNathavani/Text_Summarization">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
