@@ -11,8 +11,8 @@
 <!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
 [![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNathavani&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- github-compacet, tokyo-night -->
-  
-<a href="https://github.com/ShrutiNathavani/Text_Summarization">
+ <div>
+ <a href="https://github.com/ShrutiNathavani/Text_Summarization">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=Text_Summarization&theme=onedark" />
 </a>  
@@ -22,6 +22,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=H1BVisaPredict&theme=onedark" />
 </a>
+ </div> 
+
 
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,matlab,mysql,py,tensorflow)](https://skillicons.dev)
