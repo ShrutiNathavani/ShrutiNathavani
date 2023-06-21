@@ -12,6 +12,18 @@
 [![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNathavani&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- github-compacet, tokyo-night -->
   
+<a href="https://github.com/ShrutiNathavani/Text_Summarization">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=Text_Summarization&theme=onedark" />
+</a>  
+
+
+<a href="https://github.com/ShrutiNathavani/H1BVisaPredict">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=H1BVisaPredict&theme=onedark" />
+</a> 
+
+
   [![My Skills](https://skillicons.dev/icons?i=git,github,matlab,mysql,py,tensorflow)](https://skillicons.dev)
   <br>![](https://komarev.com/ghpvc/?username=ShrutiNathavani&color=green)
 <!--   <br>![](https://hit.yhype.me/github/profile?user_id=77008411) -->
