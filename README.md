@@ -21,7 +21,7 @@
  
  <a href="https://github.com/ShrutiNathavani/Text_Summarization">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=Text_Summarization&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=Text_Summarization&theme=tokyonight&show_icons=true" />
 </a>  
 
 
