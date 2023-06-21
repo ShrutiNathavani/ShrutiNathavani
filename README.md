@@ -7,7 +7,6 @@
 |     Stats                                                                                                         |     Streak                                                                                              |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | ![Shruti's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShrutiNathavani&theme=tokyonight&show_icons=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=ShrutiNathavani&theme=tokyonight)](https://git.io/streak-stats)
-<Br><hr><Br><h1>Some of my Projects! 🎨</h1><Br>[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShrutiNathavani&repo=pre-trained-dog-classifier-udacity)](https://github.com/ShrutiNathavani/pre-trained-dog-classifier-udacity)
 
 <!-- <img src="https://github.com/JanmayHem/JanmayHem/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
 [![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNathavani&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
