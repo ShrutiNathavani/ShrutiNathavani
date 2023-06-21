@@ -24,7 +24,8 @@
 </a>
  </div> 
 
-
+<br>
+<br>
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,matlab,mysql,py,tensorflow)](https://skillicons.dev)
   <br>![](https://komarev.com/ghpvc/?username=ShrutiNathavani&color=green)
