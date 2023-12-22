@@ -26,7 +26,7 @@
 
 <a href="https://github.com/ShrutiNathavani/YOLO-OBJECT-DETECTION-FOR-WASHING-MACHINE-TIMERS-AND-SHAFTS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=H1BVisaPredict&theme=tokyonight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ShrutiNathavani&repo=YOLO-OBJECT-DETECTION-FOR-WASHING-MACHINE-TIMERS-AND-SHAFTS&theme=tokyonight&show_icons=true" />
 </a>
  </div> 
 <br>
